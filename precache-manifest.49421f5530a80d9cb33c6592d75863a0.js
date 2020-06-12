@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea55fdc7d4fd8819628ccb227ed3428d",
+    "revision": "3e819a85b8637eb9553aad6833b6c4d3",
     "url": "/biryulinyuriTestApp/index.html"
   },
   {
-    "revision": "d8f4c88a8adc87c724fd",
-    "url": "/biryulinyuriTestApp/static/css/main.cbb2ece8.chunk.css"
+    "revision": "66ca0adeb6df2cfff1ea",
+    "url": "/biryulinyuriTestApp/static/css/main.b281467e.chunk.css"
   },
   {
-    "revision": "e43171c8e8e0a485bf8b",
-    "url": "/biryulinyuriTestApp/static/js/2.881ed088.chunk.js"
+    "revision": "00d9d8b9ddbf30c737a4",
+    "url": "/biryulinyuriTestApp/static/js/2.b8512287.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/biryulinyuriTestApp/static/js/2.881ed088.chunk.js.LICENSE.txt"
+    "url": "/biryulinyuriTestApp/static/js/2.b8512287.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d8f4c88a8adc87c724fd",
-    "url": "/biryulinyuriTestApp/static/js/main.1d068cf5.chunk.js"
+    "revision": "66ca0adeb6df2cfff1ea",
+    "url": "/biryulinyuriTestApp/static/js/main.7e215f30.chunk.js"
   },
   {
     "revision": "5fefa5364fac8ae5cd9d",

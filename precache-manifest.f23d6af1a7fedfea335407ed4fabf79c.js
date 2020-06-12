@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "817b056ba83837cf4533a79d1bb738a0",
+    "revision": "ea55fdc7d4fd8819628ccb227ed3428d",
     "url": "/biryulinyuriTestApp/index.html"
   },
   {
-    "revision": "af037f1d7bdf9425e233",
+    "revision": "d8f4c88a8adc87c724fd",
     "url": "/biryulinyuriTestApp/static/css/main.cbb2ece8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/biryulinyuriTestApp/static/js/2.881ed088.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "af037f1d7bdf9425e233",
-    "url": "/biryulinyuriTestApp/static/js/main.baefb6d0.chunk.js"
+    "revision": "d8f4c88a8adc87c724fd",
+    "url": "/biryulinyuriTestApp/static/js/main.1d068cf5.chunk.js"
   },
   {
     "revision": "5fefa5364fac8ae5cd9d",
